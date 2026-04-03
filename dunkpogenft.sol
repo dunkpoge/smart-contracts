@@ -18,7 +18,7 @@ import "@openzeppelin/contracts/interfaces/IERC2981.sol";
 /**
  * @title Dunk Poge: A 10,000 Fully On-Chain, Generative NFT Collection
  * @notice Fully on-chain generative NFT with randomized traits
- * @dev Max supply: 10,000 | Price: 0.002 ETH | Royalty: 5%
+ * @dev Max supply: 10,000 | Price: 0.005 ETH | Royalty: 5%
  * @dev OPTIMIZED: Uses ERC721A for batch minting efficiency
  * 
  * EMERGENT RARITY SYSTEM: Rarity is determined by actual mint distribution.
